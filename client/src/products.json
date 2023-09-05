@@ -1,0 +1,225 @@
+{
+    "status": "ok",
+    "totalResults": 27,
+    "products": [
+        {
+            "category": "lighting",
+            "name": "Govee Smart Light Bulbs",
+            "price": 3000,
+            "description": "Govee Smart Light Bulbs, WiFi Bluetooth Color Changing Light Bulbs, Music Sync, 54 Dynamic Scenes, 16 Million DIY Color RGB Light Bulbs, Work with Alexa, Google Assistant & Govee Home App, 4 Pack",
+            "id": "lg-1",
+            "urlToImage": "https://m.media-amazon.com/images/I/61VxkyychvL.__AC_SY445_SX342_QL70_FMwebp_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Sengled Smart Light Bulbs",
+            "price": 3000,
+            "description": "Sengled Smart Light Bulbs, Color Changing Alexa/Bluetooth Mesh, Dimmable LED Bulb A19 E26 Multicolor, High CRI, High Brightness, 8.7W 800LM, 1Pack",
+            "id": "lg-2",
+            "urlToImage": "https://m.media-amazon.com/images/I/61bJvVFwKOL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Kasa Smart Bulbs",
+            "price": 4000,
+            "description": "Kasa Smart Bulb, 850 Lumens, Full Color Changing Dimmable WiFi LED Light Bulb Compatible with Alexa and Google Home, A19, 9.5W,2.4Ghz only, No Hub Required 1-Pack(KL130)",
+            "id": "lg-3",
+            "urlToImage": "https://m.media-amazon.com/images/I/61P4aXalzLL._AC_SL1000_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Philips Light Bulbs",
+            "price": 7000,
+            "description": "Philips Hue White and color Ambiance A19 E26 LED Smart Bulb, Bluetooth & Zigbee Compatible (Hue Hub Optional), Works with Alexa & Google Assistant - A Certified for Humans Device, 9.5watts",
+            "id": "lg-4",
+            "urlToImage": "https://m.media-amazon.com/images/I/71SJdkrPykL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Feit Smart Light Bulbs",
+            "price": 2500,
+            "description": "Feit Electric Smart Light Bulbs with RGB Color Changing and Tunable White, 2.4Ghz WiFi Light Bulbs, No Hub Needed, Works with Alexa and Google, Dimmable 60 Watt = LED 9W, OM60/RGBW/CA/AG/3, 3 Pack",
+            "id": "lg-5",
+            "urlToImage": "https://m.media-amazon.com/images/I/71YiYDhTlML._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "WiZ LED Smart Bulbs",
+            "price": 4500,
+            "description": "WiZ 60W A19 Color LED Smart Bulb - Pack of 2 - E26, Indoor - Connects to Your Existing Wi-Fi - Control with Voice or App + Activate with Motion - Matter Compatible",
+            "id": "lg-6",
+            "urlToImage": "https://m.media-amazon.com/images/I/61pTu1gLAIL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "DAYBETTER Smart WiFi Led Lights",
+            "price": 7500,
+            "description": "DAYBETTER Smart WiFi Led Lights 100ft, Tuya App Controlled Led Strip Lights, Work with Alexa and Google Assistant, Timer Schedule , Color Changing Led Lights for Bedroom Party Kitchen",
+            "id": "lg-7",
+            "urlToImage": "https://m.media-amazon.com/images/I/71pJuusFHJL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Lepro LED Strip Lights",
+            "price": 6500,
+            "description": "Lepro 65.6ft LED Strip Lights, Ultra-Long RGB 5050 LED Strips with Remote Controller and Fixing Clips, Color Changing Tape Light with 12V ETL Listed Adapter for Bedroom, Room, Kitchen, Bar(32.8FTX 2)",
+            "id": "lg-8",
+            "urlToImage": "https://m.media-amazon.com/images/I/71MryzoRClL._AC_SL1186_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Eve Light Strip",
+            "price": 13000,
+            "description": "Eve Light Strip - Apple HomeKit Smart Home LED Lights Strip, Full Color Spectrum and White, 1800 Lumens",
+            "id": "lg-9",
+            "urlToImage": "https://m.media-amazon.com/images/I/71Al2c5I3eL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Lutron Pico Smart Remote Control",
+            "price": 6000,
+            "description": "Lutron Pico Smart Remote Control for Caseta Smart Dimmer Switch | PJ2-3BRL-WH-L01R | White",
+            "id": "lg-10",
+            "urlToImage": "https://m.media-amazon.com/images/I/61UYvczOcyL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Kasa Smart Dimmer Switch",
+            "price": 5000,
+            "description": "Kasa Smart Dimmer Switch HS220, Single Pole, Needs Neutral Wire, 2.4GHz Wi-Fi Light Switch Works with Alexa and Google Home, UL Certified, No Hub Required,white",
+            "id": "lg-11",
+            "urlToImage": "https://m.media-amazon.com/images/I/71oZlpY3p+L._AC_SL1500_.jpg"
+        },
+        {
+            "category": "lighting",
+            "name": "Philips Hue Bridge",
+            "price": 12000,
+            "description": "Philips Hue Bridge, Unlocks Full Suite of Features for Hue Smart Lights and Accessories, Works with Alexa, Apple HomeKit and Google Assistant White Ambiance",
+            "id": "lg-12",
+            "urlToImage": "https://m.media-amazon.com/images/I/61Uh-VU8muL._AC_SL1500_.jpg"
+        },
+
+        {
+            "category": "climate",
+            "name": "Smart Thermostat",
+            "price": 30000,
+            "description": "Emerson Sensi Wi-Fi Smart Thermostat for Smart Home, DIY, Works With Alexa, Energy Star Certified, ST55",
+            "id": "cl-1",
+            "urlToImage": "https://m.media-amazon.com/images/I/61Rl-IZR--L._AC_SL1500_.jpg"
+        },
+        {
+            "category": "climate",
+            "name": "Google Nest Thermostat",
+            "price": 45000,
+            "description": "Google Nest Thermostat - Smart Thermostat for Home - Programmable Wifi Thermostat - Snow",
+            "id": "cl-2",
+            "urlToImage": "https://m.media-amazon.com/images/I/51JSqlt6xLL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "climate",
+            "name": "LEVOIT Air Purifier",
+            "price": 35000,
+            "description": "LEVOIT Air Purifier for Home Large Room, Smart WiFi Alexa Control, HEPA Filter for Allergies, Removes Pollutants, Smoke, Dust, Covers up to 915 Sq.Foot, 24dB Quiet for Bedroom, Core 200S, White",
+            "id": "cl-3",
+            "urlToImage": "https://m.media-amazon.com/images/I/615xiax4pxL._AC_SL1316_.jpg"
+        },
+        {
+            "category": "climate",
+            "name": "Smart Air Quality Monitor",
+            "price": 18000,
+            "description": "Amazon - Know your air, Works with Alexa - A Certified for Humans Device",
+            "id": "cl-4",
+            "urlToImage": "https://m.media-amazon.com/images/I/71uRLSiQBaL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "climate",
+            "name": "Hygrometer Thermometer,",
+            "price": 5000,
+            "description": "Govee Wireless Thermometer, Mini Bluetooth Humidity Sensor with Notification Alert, Data Storage and Export, 262 Feet Connecting Range",
+            "id": "cl-5",
+            "urlToImage": "https://m.media-amazon.com/images/I/61kcEz7ArBL._SL1500_.jpg"
+        },
+        {
+            "category": "climate",
+            "name": "Portable Air Conditioner",
+            "price": 180000,
+            "description": "Model 12,500 BTU,cool extra large rooms up to 550 sq ft,wifi with alexa,energy saving,heat,quiet,remote,AC Unit,dehumidifier,fan,programmable,window venting kit,EL376HRGFK",
+            "id": "cl-6",
+            "urlToImage": "https://m.media-amazon.com/images/I/71oVPNU5BuL._AC_SL1500_.jpg"
+        },   
+        
+        {
+            "category": "sensors",
+            "name": "Google Nest Protect",
+            "price": 30000,
+            "description": "Smoke Alarm - Smoke Detector and Carbon Monoxide Detector - Battery Operated , White - S3000BWES",
+            "id": "sn-1",
+            "urlToImage": "https://m.media-amazon.com/images/I/714dK+uZTUL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "WiFi Water Sensor",
+            "price": 17000,
+            "description": "Govee WiFi Water Sensor 3 Pack, Water Leak Detector 100dB Adjustable Alarm and App Alerts, Leak and Drip Alert with Email, Wireless Detector for Home, Basement(Not Support 5G WiFi)",
+            "id": "sn-2",
+            "urlToImage": "https://m.media-amazon.com/images/I/61rVv4HOeSL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "Home Energy Monitor",
+            "price": 45000,
+            "description": "Smart Home Energy Monitor with 16 50A Circuit Level Sensors | Vue - Real Time Electricity Monitor/Meter | Solar/Net Metering",
+            "id": "sn-3",
+            "urlToImage": "https://m.media-amazon.com/images/I/61-yO4nnK4L._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "Smart Water Monitor",
+            "price": 90000,
+            "description": "Moen 900-001 Flo Smart Water Monitor and Automatic Shutoff Sensor for 3/4-Inch Diameter Pipe",
+            "id": "sn-4",
+            "urlToImage": "https://m.media-amazon.com/images/I/71FZNw7C21L._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "Sense Energy Monitor",
+            "price": 80000,
+            "description": "Track Electricity Usage in Real Time and Save Money - Meets Rigorous ETL/Intertek Safety Standards",
+            "id": "sn-5",
+            "urlToImage": "https://m.media-amazon.com/images/I/51KxQI+bsPL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "Smart Switch",
+            "price": 43000,
+            "description": "Enbrighten Z-Wave Plus 40-Amp Indoor/Outdoor Metal Box Smart Switch, Direct Wire, 120-277VAC, for Pools, Pumps, Patio Lights, AC Units, Electric Water Heaters, Gray, Z-Wave Hub Required, 14285",
+            "id": "sn-6",
+            "urlToImage": "https://m.media-amazon.com/images/I/81VFDrjp4cL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "Smart Water Valve Controller",
+            "price": 15000,
+            "description": "EcoNet Controls EVC200-HCSML The Bulldog Valve Robot, Z-Wave Water Valve, Smart Home Controller Required, Easy to Install and No Plumbing Required, Valves up to 1.5",
+            "id": "sn-7",
+            "urlToImage": "https://m.media-amazon.com/images/I/71Xs0dQ4a5L._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "Water & Temperature Sensor",
+            "price": 35000,
+            "description": "Fibaro FGBHFS-101 Flood, Water & Temperature Sensor Homekit enabled water leakage detector, white",
+            "id": "sn-8",
+            "urlToImage": "https://m.media-amazon.com/images/I/51J+VZTMVhL._AC_SL1500_.jpg"
+        },
+        {
+            "category": "sensors",
+            "name": "Carbon Monoxide Alarm",
+            "price": 12000,
+            "description": "First Alert Battery Powered Z-Wave Smoke Detector & Carbon Monoxide Alarm, Works with Ring Alarm Base Station, 2nd Generation",
+            "id": "sn-9",
+            "urlToImage": "https://m.media-amazon.com/images/I/61oc78NKWaL._AC_SL1200_.jpg"
+        }
+     
+    ]
+}

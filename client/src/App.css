@@ -1,0 +1,177 @@
+/* ------------- Header -------------- */
+
+.navbar {
+  font-size: 17px;
+  box-shadow: 0 8px 6px -6px gray;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.nav_link {
+  font-weight: 300;
+}
+
+.active {
+  border-bottom: 2px solid black;
+}
+
+/* ------------- Footer -------------- */
+
+.footer {
+  text-align: center;
+  color: white;
+  background: linear-gradient(to right, #434343, #000000);
+}
+
+.info a {
+  text-decoration: none;
+  padding: 10px;
+  color: white;
+}
+
+.info a:hover {
+  color: rgb(110, 220, 248);
+  border-bottom: 1px solid rgb(110, 220, 248);
+}
+
+/* ------------- Page Not Found -------------- */
+
+.pnf {
+  display: flex;
+  flex-direction: column;
+  min-height: 65vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.pnf-title {
+  font-size: 100px;
+  font-weight: 700;
+}
+
+.pnf-heading {
+  font-weight: normal;
+}
+
+.pnf-btn {
+  color: black;
+  border: 1px solid black;
+  text-decoration: none;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+/* ------------- Register -------------- */
+
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 69vh;
+  background-color: white;
+  background-image: linear-gradient(0deg, #5cd2c2, #417cbc 100%);
+}
+
+.form-container form {
+  box-shadow: rgba(0, 0, 0, 1) 0px 5px 15px;
+  padding: 20px;
+  background-color: #bed2dc;
+}
+
+.form-container .title {
+  text-align: center;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.form-container form input {
+  border: none;
+  border: 1px solid black;
+  border-radius: 1;
+}
+
+.form-container form button {
+  border-bottom: 1px solid black;
+  border-radius: 0;
+  background-color: black;
+  color: white;
+  width: 250px;
+}
+
+/* ------------- Banner -------------- */
+
+
+.container {
+  width: 100%;
+  padding: 0 40px;
+  }
+  
+  header {
+    width: 100%;
+    background: url("../src/assets/home-page1.jpg");
+    height: 450px;
+    margin-top: 50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    zoom: 80%;
+    color: #fff;
+  }
+  
+  .headerText {
+    width: 100%;
+    background: rgba(0, 0, 0, .5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .category_heading {
+    color: white;
+    background: linear-gradient(to right, #434343, #000000);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    font-size: 40px;
+    border-style: groove;
+  }
+
+/* ------------- Category -------------- */
+
+  .product {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+  }
+  
+  .p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9  {
+    width: 23%;
+    padding: 12px 12px 0px;
+    margin: 20px 20px;
+    overflow: hidden;
+    border-radius: 25%;
+    border-style: groove;
+    border-color: #0a0a0a;
+  }
+  
+  .product a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .product-image {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+  }
+  
+  .product-details {
+    text-align: center;
+    font-size: large;
+    padding: 10px;  
+  }
