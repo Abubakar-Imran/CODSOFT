@@ -127,7 +127,7 @@ export default function Cart() {
                       onClick={() => {
                         removeCartItem(props._id);
                       }}
-                      style={{ marginLeft: "50%" }}
+                      style={{ marginLeft: "35%" }}
                     >
                       Remove
                     </button>
