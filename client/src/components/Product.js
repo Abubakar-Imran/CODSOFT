@@ -9,7 +9,7 @@ export default function Product(props) {
 
   return (
     <div className='my-3' style={{boxShadow: 'rgba(0, 0, 0, 1) 0px 5px 15px'}}>
-      <div className="card" style={{ height: '500px', maxWidth: '400px', textAlign: 'center', paddingTop: '25px' }}>
+      <div className="card" style={{ height: 'fit-content', maxWidth: '400px', textAlign: 'center', paddingTop: '25px' }}>
         <img src={imageUrl ? imageUrl : "https://blog.logrocket.com/wp-content/uploads/2022/06/build-random-number-generator-blockchain-nocdn.png"} className="card-img-top" alt="..." width={'200px'} height={'200px'}/>
         <div className="card-body" style={{ backgroundColor: 'rgb(198 228 242)'}}>
           <hr />
