@@ -113,7 +113,7 @@
   header {
     width: 100%;
     background: url("../src/assets/home-page1.jpg");
-    height: 450px;
+    max-height: 450px;
     margin-top: 50px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -150,7 +150,6 @@
   }
   
   .p1, .p2, .p3, .p4, .p5, .p6, .p7, .p8, .p9  {
-    width: 23%;
     padding: 12px 12px 0px;
     margin: 20px 20px;
     overflow: hidden;
